@@ -1,2 +1,18 @@
-*.mode1v3
+#### `.gitignore`
+# xcode noise
+build/
 *.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1
+*.mode1v3
+*.mode2v3
+*~.nib
+*.xcworkspace
+xcuserdata
+*.swp
+
+# osx noise
+.DS_Store
+profile
+*.swp
